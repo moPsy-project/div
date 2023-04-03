@@ -757,7 +757,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 54.61 176.53 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0e8971ff-894b-4175-992a-8f3e4635fc3d)
-    (property "Reference" "D4" (at 54.9275 171.5602 0)
+    (property "Reference" "D?" (at 54.9275 171.5602 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N5817" (at 54.9275 174.0971 0)
@@ -774,12 +774,12 @@
     (instances
       (project "eurorack-power-breakout"
         (path "/18b717ae-c948-4f75-a5e6-e6afbe279fcf"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
       (project "the-count"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -788,7 +788,7 @@
   (symbol (lib_id "Device:FerriteBead") (at 83.82 176.53 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d599555-a1ca-4453-8724-a22ad52a8908)
-    (property "Reference" "FB1" (at 83.7692 168.91 90)
+    (property "Reference" "FB?" (at 83.7692 168.91 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "FerriteBead" (at 83.7692 171.45 90)
@@ -805,12 +805,12 @@
     (instances
       (project "eurorack-power-breakout"
         (path "/18b717ae-c948-4f75-a5e6-e6afbe279fcf"
-          (reference "FB1") (unit 1)
+          (reference "FB?") (unit 1)
         )
       )
       (project "the-count"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "FB1") (unit 1)
+          (reference "FB?") (unit 1)
         )
       )
     )
@@ -819,7 +819,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x08_Odd_Even") (at 40.64 181.61 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 543825da-28b1-4b1e-94cf-db1676b1dc84)
-    (property "Reference" "J4" (at 39.37 166.4802 0)
+    (property "Reference" "J?" (at 39.37 166.4802 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PWR" (at 39.37 169.0171 0)
@@ -850,12 +850,12 @@
     (instances
       (project "eurorack-power-breakout"
         (path "/18b717ae-c948-4f75-a5e6-e6afbe279fcf"
-          (reference "J4") (unit 1)
+          (reference "J?") (unit 1)
         )
       )
       (project "the-count"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J1") (unit 1)
+          (reference "J?") (unit 1)
         )
       )
     )
@@ -864,7 +864,7 @@
   (symbol (lib_id "Device:C") (at 91.44 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 55904796-8ce2-49c8-a68a-4c01641b302a)
-    (property "Reference" "C1" (at 94.361 179.5053 0)
+    (property "Reference" "C?" (at 94.361 179.5053 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 94.361 182.0422 0)
@@ -881,12 +881,12 @@
     (instances
       (project "eurorack-power-breakout"
         (path "/18b717ae-c948-4f75-a5e6-e6afbe279fcf"
-          (reference "C1") (unit 1)
+          (reference "C?") (unit 1)
         )
       )
       (project "the-count"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "C1") (unit 1)
+          (reference "C?") (unit 1)
         )
       )
     )
@@ -895,7 +895,7 @@
   (symbol (lib_id "Device:C_Polarized") (at 73.66 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5b3e4d98-25e4-4c76-8c7d-0965854d6d74)
-    (property "Reference" "C4" (at 76.581 178.6163 0)
+    (property "Reference" "C?" (at 76.581 178.6163 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 76.581 181.1532 0)
@@ -912,12 +912,12 @@
     (instances
       (project "eurorack-power-breakout"
         (path "/18b717ae-c948-4f75-a5e6-e6afbe279fcf"
-          (reference "C4") (unit 1)
+          (reference "C?") (unit 1)
         )
       )
       (project "the-count"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "C4") (unit 1)
+          (reference "C?") (unit 1)
         )
       )
     )
@@ -926,7 +926,7 @@
   (symbol (lib_id "power:GND") (at 21.59 185.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 94c7083c-29af-46ed-b1e6-853da1810ce9)
-    (property "Reference" "#PWR01" (at 21.59 191.77 0)
+    (property "Reference" "#PWR?" (at 21.59 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 21.59 189.23 0)
@@ -942,12 +942,12 @@
     (instances
       (project "eurorack-power-breakout"
         (path "/18b717ae-c948-4f75-a5e6-e6afbe279fcf"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "the-count"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
     )
@@ -956,7 +956,7 @@
   (symbol (lib_id "power:+5V") (at 109.22 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 967f6b24-6b29-4fe1-a606-226f54787d62)
-    (property "Reference" "#PWR02" (at 109.22 177.8 0)
+    (property "Reference" "#PWR?" (at 109.22 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 109.22 170.4142 0)
@@ -972,12 +972,12 @@
     (instances
       (project "eurorack-power-breakout"
         (path "/18b717ae-c948-4f75-a5e6-e6afbe279fcf"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "the-count"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
       )
     )
@@ -986,7 +986,7 @@
   (symbol (lib_name "GND_1") (lib_id "power:GND") (at 109.22 185.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c133b27e-b2b3-411e-bca5-666809dff14d)
-    (property "Reference" "#PWR04" (at 109.22 191.77 0)
+    (property "Reference" "#PWR?" (at 109.22 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 109.22 190.5 0)
@@ -1002,8 +1002,29 @@
     (instances
       (project "the-count"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
+      )
+    )
+  )
+
+  (sheet (at 220.98 40.005) (size 26.035 7.62) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ddb23b62-aa27-4614-8e08-b908b2a2dd99)
+    (property "Sheetname" "Gate Output" (at 220.98 39.2934 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "gate_output.kicad_sch" (at 220.98 48.2096 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "GATE_OUT" input (at 220.98 43.815 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 889eeb27-52a7-4431-b10e-94ddfa5d3ee4)
+    )
+    (instances
+      (project "the-count"
+        (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69" (page "2"))
       )
     )
   )
