@@ -329,7 +329,27 @@
     ],
     [
       "ddb23b62-aa27-4614-8e08-b908b2a2dd99",
-      "Gate Output"
+      "Gate Output 2"
+    ],
+    [
+      "61f4bdd8-3e4f-4e0c-a5fa-951e97fb38b8",
+      "Gate Output 4"
+    ],
+    [
+      "d48a94fa-bfe1-4bce-a3d7-937659f4df9e",
+      "Gate Output 8"
+    ],
+    [
+      "e2f85f9a-c5ab-41b2-b8ce-b63f382b5258",
+      "Gate Output 16"
+    ],
+    [
+      "301a9e1d-1dbb-4a63-a88b-1d93e257644e",
+      "Gate Output 32"
+    ],
+    [
+      "82e60134-6463-4f35-8227-ac1dc3c9b002",
+      "Gate Output 64"
     ]
   ],
   "text_variables": {}
