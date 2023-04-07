@@ -1019,7 +1019,7 @@
     (property "Value" "OUT" (at 97.155 60.96 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "moPsy:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_Centered" (at 92.075 63.5 0)
+    (property "Footprint" "moPsy:CLIFF 3.5mm S6 Mono Jack Socket" (at 92.075 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 92.075 63.5 0)
