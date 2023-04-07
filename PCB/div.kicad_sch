@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "The Count")
+    (title "DIV")
     (date "2023-04-03")
     (rev "v1")
     (company "moPsy")

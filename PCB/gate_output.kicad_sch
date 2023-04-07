@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "DIV")
+    (date "2023-04-03")
+    (rev "v1")
+    (company "moPsy")
+  )
+
   (lib_symbols
     (symbol "Connector:AudioJack2_Ground_SwitchT" (in_bom yes) (on_board yes)
       (property "Reference" "J?" (at -0.635 8.89 0)
@@ -532,7 +539,7 @@
           (reference "Q?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "Q?") (unit 1)
         )
@@ -590,7 +597,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "R?") (unit 1)
         )
@@ -648,7 +655,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "R?") (unit 1)
         )
@@ -696,7 +703,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "#PWR?") (unit 1)
         )
@@ -754,7 +761,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "R?") (unit 1)
         )
@@ -811,7 +818,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "#PWR?") (unit 1)
         )
@@ -869,7 +876,7 @@
           (reference "R?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "R?") (unit 1)
         )
@@ -926,7 +933,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "#PWR?") (unit 1)
         )
@@ -984,7 +991,7 @@
           (reference "D?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "D?") (unit 1)
         )
@@ -1043,7 +1050,7 @@
           (reference "J?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "J?") (unit 1)
         )
@@ -1100,7 +1107,7 @@
           (reference "#PWR?") (unit 1)
         )
       )
-      (project "the-count"
+      (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
           (reference "#PWR?") (unit 1)
         )
