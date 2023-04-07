@@ -1,4 +1,4 @@
-# The Count
+# DIV
 
 > Simple Counter/Divider Eurorack Module
 
