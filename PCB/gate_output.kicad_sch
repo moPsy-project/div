@@ -629,7 +629,7 @@
     (property "Reference" "R?" (at 60.325 70.1675 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1k" (at 60.325 72.7075 0)
+    (property "Value" "4k7" (at 60.325 72.7075 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at 59.563 71.755 90)
