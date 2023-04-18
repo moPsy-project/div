@@ -1924,7 +1924,7 @@
     (property "Reference" "D?" (at 107.315 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "rt" (at 107.315 36.195 90)
+    (property "Value" "ye" (at 107.315 36.195 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "LED_THT:LED_D3.0mm" (at 103.505 33.655 0)
@@ -2111,9 +2111,9 @@
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" (at 56.515 46.355 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid bac09c66-8758-43f3-ad1d-33844c536de0))
-    (pin "2" (uuid 6233abfc-c2ca-4797-a721-9f532bbdb9a9))
-    (pin "3" (uuid 70f7fd00-4dd1-4adc-ba77-dc405812dfa9))
+    (pin "1" (uuid 03488992-b3c1-4f99-b00e-380f30c61533))
+    (pin "2" (uuid c9b8f583-e305-4258-b3a0-198b1eaaf1cd))
+    (pin "3" (uuid 54e972d9-f4df-48a9-aac1-5d5076b91d03))
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
@@ -2269,13 +2269,13 @@
   (symbol (lib_id "Connector_Generic:Conn_02x08_Odd_Even") (at 40.64 181.61 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 543825da-28b1-4b1e-94cf-db1676b1dc84)
-    (property "Reference" "J?" (at 39.37 166.4802 0)
+    (property "Reference" "J?" (at 39.37 167.1701 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "PWR" (at 39.37 169.0171 0)
+    (property "Value" "PWR" (at 39.37 169.0911 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" (at 40.64 181.61 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Horizontal" (at 40.64 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 181.61 0)
@@ -2741,8 +2741,8 @@
     (property "Datasheet" "~" (at 36.83 104.775 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1144e551-3132-4431-a952-c66e1b62c471))
-    (pin "2" (uuid 93f0bc6f-e943-4bed-b176-5f992ad2bcff))
+    (pin "1" (uuid b34c8526-2e18-494a-996e-c50f8d2c5a7c))
+    (pin "2" (uuid b0fe42a9-56d8-4a2d-9ccc-e98f6083d74b))
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
