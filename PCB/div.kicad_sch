@@ -1804,7 +1804,7 @@
   (symbol (lib_name "GND_1") (lib_id "power:GND") (at 155.575 112.395 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 01f7111d-8b32-4906-a59a-7b02333aefa9)
-    (property "Reference" "#PWR?" (at 155.575 118.745 0)
+    (property "Reference" "#PWR014" (at 155.575 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 155.575 117.475 0)
@@ -1820,7 +1820,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -1851,7 +1851,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "C?") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -1881,7 +1881,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -1912,7 +1912,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D?") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -1924,7 +1924,7 @@
     (property "Reference" "D?" (at 107.315 33.655 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "rt" (at 107.315 36.195 90)
+    (property "Value" "ye" (at 107.315 36.195 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "LED_THT:LED_D3.0mm" (at 103.505 33.655 0)
@@ -1952,7 +1952,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D?") (unit 1)
+          (reference "D6") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "D?") (unit 1)
@@ -2010,7 +2010,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R?") (unit 1)
+          (reference "R8") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "R?") (unit 1)
@@ -2059,7 +2059,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R?") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -2090,7 +2090,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R?") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -2111,9 +2111,9 @@
     (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" (at 56.515 46.355 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid bac09c66-8758-43f3-ad1d-33844c536de0))
-    (pin "2" (uuid 6233abfc-c2ca-4797-a721-9f532bbdb9a9))
-    (pin "3" (uuid 70f7fd00-4dd1-4adc-ba77-dc405812dfa9))
+    (pin "1" (uuid 03488992-b3c1-4f99-b00e-380f30c61533))
+    (pin "2" (uuid c9b8f583-e305-4258-b3a0-198b1eaaf1cd))
+    (pin "3" (uuid 54e972d9-f4df-48a9-aac1-5d5076b91d03))
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
@@ -2122,7 +2122,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "Q?") (unit 1)
+          (reference "Q2") (unit 1)
         )
       )
     )
@@ -2131,7 +2131,7 @@
   (symbol (lib_id "power:+12V") (at 109.22 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 386ad163-e55b-4239-b462-a35f74bf2ec7)
-    (property "Reference" "#PWR?" (at 109.22 180.34 0)
+    (property "Reference" "#PWR011" (at 109.22 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 109.22 173.0281 0)
@@ -2147,7 +2147,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -2177,7 +2177,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR08") (unit 1)
         )
       )
     )
@@ -2186,7 +2186,7 @@
   (symbol (lib_id "Transistor_BJT:BC557") (at 68.58 116.205 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 45975bc1-c26c-4385-ac6d-f900b004b4e3)
-    (property "Reference" "Q?" (at 73.4314 116.8487 0)
+    (property "Reference" "Q4" (at 73.4314 116.8487 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC557" (at 73.4314 114.9277 0)
@@ -2204,7 +2204,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "Q?") (unit 1)
+          (reference "Q4") (unit 1)
         )
       )
     )
@@ -2213,7 +2213,7 @@
   (symbol (lib_id "power:+12V") (at 61.595 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4bcfd9a2-99eb-4d72-905a-94dd85ccf112)
-    (property "Reference" "#PWR?" (at 61.595 92.71 0)
+    (property "Reference" "#PWR07" (at 61.595 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 61.595 85.3981 0)
@@ -2229,7 +2229,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -2244,7 +2244,7 @@
     (property "Value" "FerriteBead" (at 83.7692 173.99 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "mopsy:FBeadL4D4" (at 83.82 180.848 90)
+    (property "Footprint" "moPsy:FBeadL4D4" (at 83.82 180.848 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 179.07 0)
@@ -2260,7 +2260,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "FB?") (unit 1)
+          (reference "FB1") (unit 1)
         )
       )
     )
@@ -2269,13 +2269,13 @@
   (symbol (lib_id "Connector_Generic:Conn_02x08_Odd_Even") (at 40.64 181.61 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 543825da-28b1-4b1e-94cf-db1676b1dc84)
-    (property "Reference" "J?" (at 39.37 166.4802 0)
+    (property "Reference" "J?" (at 39.37 167.1701 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "PWR" (at 39.37 169.0171 0)
+    (property "Value" "PWR" (at 39.37 169.0911 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" (at 40.64 181.61 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Horizontal" (at 40.64 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 181.61 0)
@@ -2305,7 +2305,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J?") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
@@ -2335,7 +2335,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -2366,7 +2366,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "C?") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -2375,7 +2375,7 @@
   (symbol (lib_id "power:+12V") (at 59.055 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 57f9d8e5-d346-4727-ba90-a65b1477793b)
-    (property "Reference" "#PWR?" (at 59.055 33.02 0)
+    (property "Reference" "#PWR05" (at 59.055 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 59.055 25.7081 0)
@@ -2391,7 +2391,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -2421,7 +2421,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -2461,7 +2461,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R?") (unit 1)
+          (reference "R7") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "R?") (unit 1)
@@ -2510,7 +2510,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "C?") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -2541,7 +2541,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D?") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -2550,7 +2550,7 @@
   (symbol (lib_name "GND_1") (lib_id "power:GND") (at 169.545 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 69c2beed-02ff-48bd-ab7f-e9828cda20b3)
-    (property "Reference" "#PWR?" (at 169.545 110.49 0)
+    (property "Reference" "#PWR016" (at 169.545 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 169.545 109.22 0)
@@ -2566,7 +2566,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -2598,7 +2598,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "Q?") (unit 1)
+          (reference "Q3") (unit 1)
         )
       )
     )
@@ -2607,7 +2607,7 @@
   (symbol (lib_id "power:+12V") (at 169.545 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 81b0dc6b-d5ce-4603-b5d5-6d49d1d65ab1)
-    (property "Reference" "#PWR?" (at 169.545 78.74 0)
+    (property "Reference" "#PWR015" (at 169.545 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 169.545 71.4281 0)
@@ -2623,7 +2623,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -2632,7 +2632,7 @@
   (symbol (lib_id "4xxx_IEEE:4024") (at 169.545 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8c889dac-8fd2-408b-8cb7-27c7f231a1e9)
-    (property "Reference" "U?" (at 171.5009 77.47 0)
+    (property "Reference" "U1" (at 171.5009 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4024" (at 171.5009 80.01 0)
@@ -2658,7 +2658,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "U?") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -2688,7 +2688,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -2741,8 +2741,8 @@
     (property "Datasheet" "~" (at 36.83 104.775 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1144e551-3132-4431-a952-c66e1b62c471))
-    (pin "2" (uuid 93f0bc6f-e943-4bed-b176-5f992ad2bcff))
+    (pin "1" (uuid b34c8526-2e18-494a-996e-c50f8d2c5a7c))
+    (pin "2" (uuid b0fe42a9-56d8-4a2d-9ccc-e98f6083d74b))
     (instances
       (project "manual-gate-trigger-source"
         (path "/64d6412c-bfad-42df-9ed7-bcc6cbff0470/fd0933f7-8da4-4985-a361-ff361c3b6a05"
@@ -2751,7 +2751,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R?") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -2782,7 +2782,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D?") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -2812,7 +2812,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -2821,7 +2821,7 @@
   (symbol (lib_name "GND_1") (lib_id "power:GND") (at 109.22 187.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c133b27e-b2b3-411e-bca5-666809dff14d)
-    (property "Reference" "#PWR?" (at 109.22 194.31 0)
+    (property "Reference" "#PWR012" (at 109.22 194.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 109.22 193.04 0)
@@ -2837,7 +2837,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -2877,7 +2877,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D?") (unit 1)
+          (reference "D5") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "D?") (unit 1)
@@ -2926,7 +2926,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R?") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -2958,7 +2958,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J?") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -2990,7 +2990,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J?") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -3021,7 +3021,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D?") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -3052,7 +3052,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R?") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -3082,7 +3082,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -3091,7 +3091,7 @@
   (symbol (lib_id "power:+12V") (at 155.575 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e6d31e2d-37fe-4e25-93b2-096e16d0438c)
-    (property "Reference" "#PWR?" (at 155.575 102.87 0)
+    (property "Reference" "#PWR013" (at 155.575 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 155.575 95.5581 0)
@@ -3107,7 +3107,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -3116,7 +3116,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 27.94 99.695 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ebbde017-e628-40bb-a23c-afc2742fee47)
-    (property "Reference" "J?" (at 22.225 100.33 90)
+    (property "Reference" "J2" (at 22.225 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Bus Gate Reset" (at 26.67 97.79 90)
@@ -3133,7 +3133,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J?") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -3142,7 +3142,7 @@
   (symbol (lib_id "power:+12V") (at 103.505 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid edbc2d60-03c3-4b2b-8713-e4dd33f0d939)
-    (property "Reference" "#PWR?" (at 103.505 30.48 0)
+    (property "Reference" "#PWR010" (at 103.505 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 103.505 23.1681 0)
@@ -3158,7 +3158,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -3189,7 +3189,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R?") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
