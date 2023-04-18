@@ -2244,7 +2244,7 @@
     (property "Value" "FerriteBead" (at 83.7692 173.99 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "mopsy:FBeadL4D4" (at 83.82 180.848 90)
+    (property "Footprint" "moPsy:FBeadL4D4" (at 83.82 180.848 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.82 179.07 0)
