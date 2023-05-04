@@ -2,6 +2,7 @@
 
 > Simple Counter/Divider Eurorack Module
 
+![Front view of the DIV panel in a rack](Doc/2023-05-04_DIV_Case_Shot_Small.jpg)
 
 ## Dependencies
 
