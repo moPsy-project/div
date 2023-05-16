@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "DIV")
+    (date "2023-05-16")
+    (rev "v1.1")
+    (company "moPsy")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
