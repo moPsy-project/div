@@ -1969,7 +1969,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R28") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -2025,7 +2025,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "C3") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -2086,7 +2086,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D2") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -2126,7 +2126,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D6") (unit 1)
+          (reference "D1") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "D?") (unit 1)
@@ -2184,7 +2184,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R8") (unit 1)
+          (reference "R1") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "R?") (unit 1)
@@ -2264,7 +2264,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R5") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -2296,7 +2296,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "Q2") (unit 1)
+          (reference "Q1") (unit 1)
         )
       )
     )
@@ -2509,7 +2509,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J4") (unit 1)
+          (reference "J10") (unit 1)
         )
       )
     )
@@ -2665,7 +2665,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R7") (unit 1)
+          (reference "R6") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "R?") (unit 1)
@@ -2714,7 +2714,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "C1") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -2745,7 +2745,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D1") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -2802,7 +2802,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "Q3") (unit 1)
+          (reference "Q2") (unit 1)
         )
       )
     )
@@ -2924,7 +2924,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "Q1") (unit 1)
+          (reference "Q3") (unit 1)
         )
       )
     )
@@ -2955,7 +2955,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R27") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -3001,7 +3001,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D20") (unit 1)
+          (reference "D7") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "D13") (unit 1)
@@ -3050,7 +3050,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R1") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -3096,7 +3096,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D19") (unit 1)
+          (reference "D2") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "D13") (unit 1)
@@ -3240,7 +3240,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "D5") (unit 1)
+          (reference "D6") (unit 1)
         )
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69/ddb23b62-aa27-4614-8e08-b908b2a2dd99"
           (reference "D?") (unit 1)
@@ -3289,7 +3289,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R2") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -3321,7 +3321,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J3") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -3353,7 +3353,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J1") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -3415,7 +3415,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R6") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -3479,7 +3479,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 27.94 99.695 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ebbde017-e628-40bb-a23c-afc2742fee47)
-    (property "Reference" "J2" (at 22.225 100.33 90)
+    (property "Reference" "J1" (at 22.225 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Bus Gate Reset" (at 26.67 97.79 90)
@@ -3496,7 +3496,7 @@
     (instances
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "J2") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -3583,7 +3583,7 @@
       )
       (project "div"
         (path "/69636855-5bea-4b1f-bae0-d5724c7c5e69"
-          (reference "R29") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
