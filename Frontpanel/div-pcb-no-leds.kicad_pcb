@@ -6,9 +6,9 @@
 
   (paper "A4")
   (title_block
-    (title "moPsy DIV (no LEDs)")
-    (date "2023-04-07")
-    (rev "v1")
+    (title "moPsy DIV glow (no LEDs)")
+    (date "2023-05-17")
+    (rev "v1.1")
   )
 
   (layers
@@ -45,15 +45,15 @@
 
   (setup
     (stackup
-      (layer "F.SilkS" (type "Top Silk Screen") (color "Black"))
+      (layer "F.SilkS" (type "Top Silk Screen") (color "White"))
       (layer "F.Paste" (type "Top Solder Paste"))
-      (layer "F.Mask" (type "Top Solder Mask") (color "White") (thickness 0.01))
+      (layer "F.Mask" (type "Top Solder Mask") (color "Black") (thickness 0.01))
       (layer "F.Cu" (type "copper") (thickness 0.035))
       (layer "dielectric 1" (type "core") (color "Polyimide") (thickness 1.51) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
       (layer "B.Cu" (type "copper") (thickness 0.035))
-      (layer "B.Mask" (type "Bottom Solder Mask") (color "White") (thickness 0.01))
+      (layer "B.Mask" (type "Bottom Solder Mask") (color "Black") (thickness 0.01))
       (layer "B.Paste" (type "Bottom Solder Paste"))
-      (layer "B.SilkS" (type "Bottom Silk Screen") (color "Black"))
+      (layer "B.SilkS" (type "Bottom Silk Screen") (color "White"))
       (copper_finish "None")
       (dielectric_constraints no)
     )
@@ -3020,7 +3020,7 @@
   (gr_text "https://github.com/moPsy-project/div" (at 109.22 55.88 90) (layer "B.SilkS") (tstamp 1bf1bbad-b58a-4d68-9c5b-802ae1613c27)
     (effects (font (size 2 2) (thickness 0.2)) (justify left bottom mirror))
   )
-  (gr_text "v1" (at 108.839 119.38 90) (layer "B.SilkS") (tstamp ddecb9a1-4f25-4470-965e-8b609615ac34)
+  (gr_text "v1.1" (at 108.839 119.38 90) (layer "B.SilkS") (tstamp ddecb9a1-4f25-4470-965e-8b609615ac34)
     (effects (font (size 2 2) (thickness 0.2)) (justify left bottom mirror))
   )
   (gr_text "32" (at 108.966 131.1402 45) (layer "F.SilkS") (tstamp 3fb0c3c6-45a3-4480-b6cb-33e7d438771c)
@@ -3043,6 +3043,9 @@
   )
   (gr_text "16" (at 108.966 117.0686 45) (layer "F.SilkS") (tstamp e960beb1-9f84-4c19-a87e-9db8d41be74c)
     (effects (font (size 2 2) (thickness 0.2)) (justify bottom))
+  )
+  (gr_text "glow" (at 112.9284 39.7256 75) (layer "F.SilkS") (tstamp eb18ea98-19de-468f-b6aa-517134048738)
+    (effects (font (size 1 1) (thickness 0.1)) (justify left bottom))
   )
 
   (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 2a8441c4-422d-4030-a743-4f983fa7b926) (hatch edge 0.5)
