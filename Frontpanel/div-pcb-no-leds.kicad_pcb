@@ -6,9 +6,9 @@
 
   (paper "A4")
   (title_block
-    (title "moPsy DIV (no LEDs)")
-    (date "2023-04-07")
-    (rev "v1")
+    (title "moPsy DIV glow (no LEDs)")
+    (date "2023-05-17")
+    (rev "v1.1")
   )
 
   (layers
@@ -3020,7 +3020,7 @@
   (gr_text "https://github.com/moPsy-project/div" (at 109.22 55.88 90) (layer "B.SilkS") (tstamp 1bf1bbad-b58a-4d68-9c5b-802ae1613c27)
     (effects (font (size 2 2) (thickness 0.2)) (justify left bottom mirror))
   )
-  (gr_text "v1" (at 108.839 119.38 90) (layer "B.SilkS") (tstamp ddecb9a1-4f25-4470-965e-8b609615ac34)
+  (gr_text "v1.1" (at 108.839 119.38 90) (layer "B.SilkS") (tstamp ddecb9a1-4f25-4470-965e-8b609615ac34)
     (effects (font (size 2 2) (thickness 0.2)) (justify left bottom mirror))
   )
   (gr_text "32" (at 108.966 131.1402 45) (layer "F.SilkS") (tstamp 3fb0c3c6-45a3-4480-b6cb-33e7d438771c)
