@@ -113,11 +113,12 @@ Enjoy your module! \quad \includegraphics[height=0.8em]{peace_love_music}
 \end{center}
 
 \section*{About DIV}
-\emph{DIV} is a simple clock divider, similar to the \href{https://doepfer.de/a160.htm}{Doepfer A-160-1}.
 
-This module works as a rhythm and clock divider, as expected, but also accepts audio frequencies and happily scales your waves down by several octaves (bear in mind that the output will be 50\% PWM).
+\emph{DIV} is a rhythm and clock divider with six output stages, similar to the Doepfer \href{https://doepfer.de/a160.htm}{Doepfer A-160-1}.
 
-The reset input can be configured for triggers from the bus gate.
+It accepts audio frequencies and happily scales them down by several octaves. (Bear in mind that the output will be 50\% PWM.)
+
+The reset input can be configured to trigger from the bus gate with a jumper.
 
 \end{minipage}%
 \hspace{0.5cm}
@@ -183,7 +184,7 @@ The Reset Input is mirrored on the bus side (see \emph{Setup}) with the same beh
 
 The \textbf{\color{red}Divider Output} gates are a binary representation of the internal counter. They can also be understood as divisions by the number printed next to the output.
 
-If the internal counter reaches its capacity of 128 steps it wraps around and restarts at zero.
+If the internal counter reaches its capacity of 64 steps it wraps around and restarts at zero.
 
 \end{minipage}%
 \hspace{0.5cm}
